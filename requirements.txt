@@ -1,0 +1,5 @@
+fastapi~=0.120.3
+pydantic~=2.12.3
+pydantic-settings~=2.11.0
+sqlmodel~=0.0.27
+SQLAlchemy~=2.0.44
